@@ -4,6 +4,8 @@ Projek ini merupakan sebuah aplikasi laundry berbasis web sederhana dengan mengg
 
 ## Flowchart
 <img src="Laundry Flowchart.png">
+
+
 ## Database
 
 `Database User`
