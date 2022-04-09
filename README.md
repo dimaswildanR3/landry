@@ -3,10 +3,8 @@
 Projek ini merupakan sebuah aplikasi laundry berbasis web sederhana dengan menggunakan framework php laravel. Projek ini merupakan projek akhir di kelas XII 
 
 ## Flowchart
-
-## Database
-
 <img src="Laundry Flowchart.png">
+## Database
 
 `Database User`
 
